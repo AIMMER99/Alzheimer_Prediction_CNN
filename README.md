@@ -1,2 +1,2 @@
 # Alzheimer_Prediction_CNN
-In this repository, I will demonstrate the progress
+In this repository, I will demonstrate the progress of an image classification project that aims to distinguish between healthy individuals and those with Alzheimer's disease using MRI images. The first step involves implementing a four classes classification of the different levels of the disease using CNN. For the second step, I will utilize pre-trained models and their weights to train and classify the different patients. Finally, in the last step, I will implement a model from scratch and compare the different results. The goal is to explore different approaches and improve the overall performance.
